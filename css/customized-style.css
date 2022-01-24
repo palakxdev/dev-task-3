@@ -1,0 +1,15 @@
+/* my-favorite-google-font-poppins */
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+/* common styles */
+body {
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    color: #F89A3B;
+}
+
+/* custom class and styles */
+.luxury-button{
+    background-color: #F89A3B;
+}
