@@ -10,6 +10,9 @@ h1 {
 }
 
 /* custom class and styles */
+.luxury-text-color{
+    color: #F89A3B;
+}
 .luxury-button{
     background-color: #F89A3B;
 }
@@ -22,4 +25,6 @@ h1 {
 .luxury-background{
     background-color: #F89A3B;
 }
-
+.luxury-footer-bg{
+    background-color: #0B0D17;
+}
