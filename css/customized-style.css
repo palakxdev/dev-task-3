@@ -4,27 +4,28 @@
 /* common styles */
 body {
     font-family: 'Poppins', sans-serif;
+    background-color: #ffe6e6;
 }
 h1 {
     color: #F89A3B;
 }
 
 /* custom class and styles */
-.luxury-text-color{
+.luxury-text-color {
     color: #F89A3B;
 }
-.luxury-button{
+.luxury-button {
     background-color: #F89A3B;
 }
-.luxury-h3{
+.luxury-h3 {
     color: #F89A3B;
 }
-.luxury-font-awesome{
+.luxury-font-awesome {
     color: #F89A3B;
 }
-.luxury-background{
+.luxury-background {
     background-color: #F89A3B;
 }
-.luxury-footer-bg{
+.luxury-footer-bg {
     background-color: #0B0D17;
 }
